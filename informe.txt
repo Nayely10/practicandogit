@@ -1,0 +1,7 @@
+Hoy realizaremos la ultima practica de git para continuar con python
+Estubimos realizando un la ultima practica de git con un paso a paso creamos la carpeta que se llama 
+ultimapracticagit el ella creamos 2 hojas  1 se llama conclusion.txt en la cual escribios y la otra se llama informe.txt en
+ la cual tambien escribimos entramos a GIT por medio de la carpeta i iniciamos git,
+  luego vimos el estado de la carpeta, despues  adicionamos los archivos los archios  con gid add . , despues realizaremos
+  un commit que lleba como nombre ultima_practica_git y por ultimos estamos escribiendo aqui.
+
